@@ -1,0 +1,7 @@
+# track only what is needed to build mdv.exe
+*
+!.gitignore
+!mdv.c
+!mdv.rc
+!mdv.ico
+!build.bat
